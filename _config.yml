@@ -1,10 +1,26 @@
-title: Mario Larcher
-description: >
-  AI blog by Mario Larcher.
-baseurl: ""
-url: "https://username.github.io"
+# Dependencies
+markdown: kramdown
+highlighter: rouge
 
-remote_theme: poole/hyde
+# Permalinks
+permalink: pretty
+relative_permalinks: false
 
-plugins:
-  - jekyll-feed
+# Setup
+title:            Mario Larcher
+description:      AI blog by Mario Larcher.
+url:              https://mnslarcher.github.io
+baseurl:          ""
+
+author:
+  name:           Mario Larcher
+  url:            https://mnslarcher.github.io/about
+
+paginate: 5
+
+# Custom vars
+version: 2.1.0
+
+# Optional: link to your GitHub repo
+github:
+  repo: https://github.com/mnslarcher/mnslarcher.github.io
