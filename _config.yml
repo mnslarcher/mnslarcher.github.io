@@ -1,0 +1,10 @@
+title: Mario Larcher
+description: >
+  AI blog by Mario Larcher.
+baseurl: ""
+url: "https://username.github.io"
+
+remote_theme: poole/hyde
+
+plugins:
+  - jekyll-feed
